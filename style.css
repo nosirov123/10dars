@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+section video{
+    width: 100%;
+}
+
+footer{
+    background-color: black;
+    height: 81px;
+}
